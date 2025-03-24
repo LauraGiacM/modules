@@ -13,6 +13,10 @@ tools:
       doi: "10.1093/bioinformatics/btz795"
       licence: ["GPL v3"]
       identifier: "biotools:kalign"
+  - mytool:
+    - ontologies:
+      - edam: http://edamontology.org/format_1929
+      - edam: …
 input:
   - - meta:
         type: map
