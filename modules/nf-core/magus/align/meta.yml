@@ -15,6 +15,10 @@ tools:
       doi: "10.1093/bioinformatics/btaa992"
       licence: ["MIT"]
       identifier: biotools:magus
+       - mytool:
+    - ontologies:
+      - edam: http://edamontology.org/format_1929
+      - edam: …
 
 input:
   - - meta:
