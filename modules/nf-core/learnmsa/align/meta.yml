@@ -13,6 +13,10 @@ tools:
       doi: "10.1093/gigascience/giac104"
       licence: ["MIT"]
       identifier: biotools:learnMSA
+        - mytool:
+    - ontologies:
+      - edam: http://edamontology.org/format_1929
+      - edam: …
 input:
   - - meta:
         type: map
