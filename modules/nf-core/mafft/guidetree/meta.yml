@@ -14,6 +14,10 @@ tools:
       doi: "10.1093/nar/gkf436"
       licence: ["BSD"]
       identifier: biotools:MAFFT
+       - mytool:
+    - ontologies:
+      - edam: http://edamontology.org/format_1929
+      - edam: …
 input:
   - - meta:
         type: map
