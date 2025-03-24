@@ -20,6 +20,10 @@ tools:
       homepage: "https://zlib.net/pigz/"
       documentation: "https://zlib.net/pigz/pigz.pdf"
       identifier: ""
+       - mytool:
+    - ontologies:
+      - edam: http://edamontology.org/format_1929
+      - edam: …
 input:
   - - meta:
         type: map
